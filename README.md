@@ -2,7 +2,7 @@
 
 (COSI 123A) Statistical Machine Learning </br>
  
-### Task: 1) testing different classifiers on DNA sequence data and 2) get the best prediction accuracy
+### Task: 1) test different classifiers on DNA sequence data and 2) get the best prediction accuracy
 
 SVM, Decision Trees, AdaBoost and Bagging were tested. All classifiers gave reasonably good accuracy (around
 0.9) without fine tuning of parameters. However, Decision Trees was better than SVM both in single simulations or
